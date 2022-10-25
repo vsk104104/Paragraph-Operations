@@ -1,0 +1,12 @@
+This ia my text file 
+Quit the server with CTRL-BREAK.
+D:\projects\practise\practise\views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 20, 2022 - 17:42:15
+Django version 4.1.1, using settings 'practise.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+[20/Oct/2022 17:42:18] "GET / HTTP/1.1" 200 22
